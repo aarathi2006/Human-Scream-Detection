@@ -19,6 +19,8 @@ GPS location tracking of the person who screamed
 
 Live system status display (Recording Start / Stop indicators)
 
+<img width="1366" height="578" alt="Image" src="https://github.com/user-attachments/assets/ddf226da-3be8-494d-8961-7a2e65aa3ee0" />
+
 Secure user registration and caretaker contact setup
 
 # Technologies Used
